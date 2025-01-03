@@ -1,6 +1,6 @@
 provider "aws" {
   region  = "ap-south-1"
-  profile = "kanth_testuser"
+  profile = "jashwanthk"
 }
 
 resource "random_id" "policy_id" {
